@@ -10,8 +10,8 @@ A simple **ATM Banking System** built using Java Swing that simulates deposit, w
 - 🏧 Withdraw money (with balance validation)
 - 📊 View current balance
 - 🎨 Clean and simple Swing GUI
-- 🔐 (Planned) Login system with username & PIN
-- 💾 (Planned) File/database integration for storing balances
+- 🔐  Login system with username 
+
 
 ---
 
@@ -23,7 +23,7 @@ A simple **ATM Banking System** built using Java Swing that simulates deposit, w
 
 ---
 
-## 📸 Screenshots
+## 📸 Video
 
 | Login Page | ATM Menu | Deposit/Withdraw |
 |------------|----------|------------------|
@@ -31,9 +31,3 @@ A simple **ATM Banking System** built using Java Swing that simulates deposit, w
 
 ---
 
-## 🧑‍💻 How to Run
-
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/atm-banking-system.git
-   cd atm-banking-system
