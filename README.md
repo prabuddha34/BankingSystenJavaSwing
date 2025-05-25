@@ -27,7 +27,7 @@ A simple **ATM Banking System** built using Java Swing that simulates deposit, w
 
 | Login Page | ATM Menu | Deposit/Withdraw |
 |------------|----------|------------------|
-| (Coming soon) | ✅ | ✅ |
+| ✅ | ✅ | ✅ |
 
 ---
 
